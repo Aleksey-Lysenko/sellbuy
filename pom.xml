@@ -12,7 +12,7 @@
     <artifactId>buysell</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>com.example.buysell</name>
-    <description>Clone Avito</description>
+    <description>Clone Olx</description>
     <properties>
         <java.version>11</java.version>
     </properties>
